@@ -1,0 +1,25 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "declaration": true,
+        "module": "commonjs",
+        "target": "es5",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "outDir": "lib",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "noEmitOnError": true
+    },
+    "filesGlob": [
+        "./e2e/**/*.ts",
+        "./typings/main.d.ts"
+    ],
+    "files": [
+        "./e2e/specs/SearchkitSpec.ts",
+        "./typings/main.d.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}

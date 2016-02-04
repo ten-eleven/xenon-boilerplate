@@ -1,0 +1,33 @@
+{
+  "name": "xenon-boilerplate",
+  "version": "0.5.1",
+  "description": "xenon boilerplate",
+  "keywords": [
+  ],
+  "bugs": {
+    "url": "https://github.com/ten-eleven/xenon/issues"
+  },
+  "typings": "lib/src/index.d.ts",
+  "scripts": {
+    "test:e2e": "protractor e2e/conf/protractor.conf.js"
+  },
+  "authors": [
+    {
+      "name": "Joseph McElroy",
+      "email": "phoey1@gmail.com"
+    },
+    {
+      "name": "Siavash Etemadieh",
+      "email": "ssetem@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ts-node": "^0.5.5",
+    "typescript": "^1.7.0",
+    "xenon": "^0.1.4",
+    "searchkit":"^0.5.0"
+  }
+}
