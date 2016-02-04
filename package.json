@@ -1,13 +1,12 @@
 {
   "name": "xenon-boilerplate",
-  "version": "0.5.1",
+  "version": "0.0.1",
   "description": "xenon boilerplate",
   "keywords": [
   ],
   "bugs": {
     "url": "https://github.com/ten-eleven/xenon/issues"
   },
-  "typings": "lib/src/index.d.ts",
   "scripts": {
     "test:e2e": "protractor e2e/conf/protractor.conf.js"
   },
