@@ -1,5 +1,7 @@
 ## Xenon Boilerplate
-Xenon is a JavaScript Testing utility for protractor that makes it easier to manage E2E testing with applications which heavily use components. Xenon's API helps you create testing objects which mirror your components structure.
+Xenon (http://github.com/ten-eleven/xenon) is a JavaScript Testing utility for protractor that makes it easier to manage E2E testing with applications which heavily use components. Xenon's API helps you create testing objects which mirror your components structure.
+
+
 
 This boilerplate is help you bootstrap your functional tests in your project.
 
